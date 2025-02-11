@@ -1,0 +1,151 @@
+﻿Index Number,Variable Label (English),Variable Name,Section Name
+1,_uuid,_uuid,Survey Info
+2,start,start,Survey Info
+3,end,end,Survey Info
+4,State,bi1,Basic Identification
+5,Parliament Constituency Number,bi2,Basic Identification
+6,Parliament Constituency Name,bi3,Basic Identification
+7,Assembly Constituency Number,bi4,Basic Identification
+8,Assembly Constituency Name,bi5,Basic Identification
+9,Polling Booth Number,bi6,Basic Identification
+10,Polling Booth Name,bi7,Basic Identification
+13,Town/Village Name,bi10,Basic Identification
+14,Nature of Locality,bi11,Basic Identification
+16,Gender,bi13,Basic Identification
+18,Age,bi15,Basic Identification
+19,GPS Location of House,bi16,Basic Identification
+20,_GPS Location of House_latitude,bi16_lat,Basic Identification
+21,_GPS Location of House_longitude,bi16_longt,Basic Identification
+22,_GPS Location of House_altitude,bi16_alt,Basic Identification
+23,_GPS Location of House_precision,bi16_prec,Basic Identification
+24,Completed level of education,dh1,Demographic and household particulars
+25,How many people are there in your household?,dh2,Demographic and household particulars
+26,What is your primary activity?,dh3,Demographic and household particulars
+27,"If student, what kind of institution you're currently attending?",dh4,Demographic and household particulars
+28,What is your official caste category?,dh5,Demographic and household particulars
+29,"If you are from the General category, what is your Jati?",dh6,Demographic and household particulars
+30,"If Other Upper Caste, please write down the Jati",dh7,Demographic and household particulars
+31,"If you are from the OBC category, what is your Jati?",dh8,Demographic and household particulars
+32,"If Other OBCs, please write down the Jati",dh9,Demographic and household particulars
+33,"If you are from the SC category, what is your Jati?",dh10,Demographic and household particulars
+34,"If Other SCs, please write down the Jati",dh11,Demographic and household particulars
+35,"If you are from the ST category, what is your tribe?",dh12,Demographic and household particulars
+36,"If Other STs, please write down the tribe",dh13,Demographic and household particulars
+37,What is your Religion,dh14,Demographic and household particulars
+38,Type of house the respondent living in,dh15,Demographic and household particulars
+39,Do you have tap water in your house,dh16,Demographic and household particulars
+40,Do you have a latrine for exclusive use in your house,dh17,Demographic and household particulars
+41,Nature of dwelling,dh18,Demographic and household particulars
+42,Do you own the house?,dh19,Demographic and household particulars
+43,Does your household own any of the following items?,dh20,Demographic and household particulars
+44,Did you vote in the ongoing Lok Sabha election (2024)?,ep1,Electoral Preferences
+45,"If yes, whom did you vote for?...44",ep2,Electoral Preferences
+46,"If not, why could you not vote?",ep3,Electoral Preferences
+47,Did you vote in the last Vidhan Sabha election?,ep4,Electoral Preferences
+48,"If yes, whom did you vote for?...47",ep5,Electoral Preferences
+49,Did you vote in the 2019 lok sabha election?,ep6,Electoral Preferences
+50,"If yes, whom did you vote for?...49",ep7,Electoral Preferences
+51,Do you always vote for the same party or alliance?,ep8,Electoral Preferences
+52,"If yes, what is this party?",ep9,Electoral Preferences
+53,When did you decide to vote for a particular party/candidate?,ep10,Electoral Preferences
+54,Do all members of your family usually vote the same party you do?,ep11,Electoral Preferences
+55,Do you have a Bank account?,wb1,Access to Welfare Schemes/Benefits
+56,"Do you use UPI (PhonePe, Paytm, Google Pay)?",wb2,Access to Welfare Schemes/Benefits
+57,Have you or a household member worked in NREGA in the past 5 years?,wb3,Access to Welfare Schemes/Benefits
+58,Have you received piped water assistance from the government in your village/town/city in the last 5 years?,wb4,Access to Welfare Schemes/Benefits
+59,Which of these direct benefits have you personally received from the government in the last 5 years?,wb5,Access to Welfare Schemes/Benefits
+60,Which of these direct benefits have other members in your household received in the last 5 years?,wb6,Access to Welfare Schemes/Benefits
+61,Which scheme has been most useful for your household?,wb7,Access to Welfare Schemes/Benefits
+62,Who of the following do you hold most responsible for delivering these benefits to you?,wb8,Access to Welfare Schemes/Benefits
+63,Who do you primarily reach out to if you encounter problems getting scheme benefits?,wb9,Access to Welfare Schemes/Benefits
+64,Are more people in your area getting access to money/ration/schemes through government schemes since COVID?,wb10,Access to Welfare Schemes/Benefits
+65,Do you pay a commission to get benefits from DBT schemes?,wb11,Access to Welfare Schemes/Benefits
+66,"In the last 5 years, do you believe corruption in welfare schemes has reduced?",wb12,Access to Welfare Schemes/Benefits
+67,"If yes to previous question, is it because of:",wb13,Access to Welfare Schemes/Benefits
+68,"In the last 5 years, do you believe that the contractor/dalal is no longer taking a cut from welfare schemes?",wb14,Access to Welfare Schemes/Benefits
+69,Do you believe the contractor/dalal still has a role in sanctioning ration after the conception of EPOS and biometric system?,wb15,Access to Welfare Schemes/Benefits
+70,"Is the Panchayat more or less involved in implementing welfare schemes, in the last five years?",wb16,Access to Welfare Schemes/Benefits
+71,"Is the party worker/ MLA more or less involved in implementing welfare schemes, in the last five years?",wb17,Access to Welfare Schemes/Benefits
+72,Do you believe there are more schemes targeted at women today than 5 years ago?,wb18,Access to Welfare Schemes/Benefits
+73,"If yes, who is most responsible?",wb19,Access to Welfare Schemes/Benefits
+74,Which political party offers more benefits to women?,wb20,Access to Welfare Schemes/Benefits
+75,Do you believe that Narendra Modi has been a good leader for the country?,pl1,Political Leadership
+76,Modi defends the interests of Hindus in India.,pl2,Political Leadership
+77,Modi has raised the profile of India across the world.,pl3,Political Leadership
+78,Modi will bring great economic growth to India.,pl4,Political Leadership
+79,Modi has brought more Jobs and Employment to India.,pl5,Political Leadership
+80,Modi has strengthened national security,pl6,Political Leadership
+81,Modi has brought better law and order to India.,pl7,Political Leadership
+82,Modi is most able to give welfare benefits to people like me.,pl8,Political Leadership
+83,Modi is honest.,pl9,Political Leadership
+84,Modi uses ED/CBI/IT to catch corrupt politicians.,pl10,Political Leadership
+85,He does not come from an elite background.,pl11,Political Leadership
+86,"Among the aforementioned statements, which of these statements best describes why you believe Modi is a good leader!",pl12,Political Leadership
+87,Modi mistreats Muslims in India.,pl13,Political Leadership
+88,Modi cannot bring economic growth or jobs to India.,pl14,Political Leadership
+89,Modi has only helped the wealthy and not people like me.,pl15,Political Leadership
+90,Modi is too dictatorial.,pl16,Political Leadership
+91,Modi is corrupt.,pl17,Political Leadership
+92,Modi misuses CBI/ED/IT to frighten opposition.,pl18,Political Leadership
+93,"Among the aforementioned statements, which of these statements best describes why you believe Modi is not a good leader!",pl19,Political Leadership
+94,Do you believe that Rahul Gandhi would be a good leader for the country?,pl20,Political Leadership
+95,Rahul Gandhi defends the constitutional values of religious pluralism.,pl21,Political Leadership
+96,Rahul Gandhi exposes the corruption between big companies and politicians.,pl22,Political Leadership
+97,Rahul Gandhi can help the poor and unemployed youth.,pl23,Political Leadership
+98,Rahul Gandhi can help empower women.,pl24,Political Leadership
+99,Rahul Gandhi wants to conduct a caste census....95,pl25,Political Leadership
+100,"Among the aforementioned statements, which of these statements best describes why you believe Rahul Gandhi is a good leader!",pl26,Political Leadership
+101,Rahul Gandhi is pro Muslim.,pl27,Political Leadership
+102,Rahul Gandhi wants to take money away from the wealthy.,pl28,Political Leadership
+103,Rahul Gandhi is dynastic.,pl29,Political Leadership
+104,Rahul Gandhi is corrupt.,pl30,Political Leadership
+105,Rahul Gandhi wants to conduct a caste census....100,pl31,Political Leadership
+106,"Among the aforementioned statements, which of these statements best describes why you believe Rahul Gandhi is not a good leader!",pl32,Political Leadership
+107,What do you think is the biggest achievement of the BJP government in the last five years?,pl33,Political Leadership
+108,What do you think is the biggest failure of the BJP government in the last five years?,pl34,Political Leadership
+109,Which of these systems do you find preferable?,pl35,Political Leadership
+110,Do you believe it is appropriate for a political party in India to give a ticket to a candidate who has defected from another party?,pl36,Political Leadership
+111,Who do you think will become the next Prime Minister of India?,pl37,Political Leadership
+112,"Do women in your household vote as others in the household say, or do they make up their minds on their own?",pov1,Perception of voters
+113,Do you believe there should be reservations for women in the Parliament?,pov2,Perception of voters
+114,Do you believe there should be reservations for women in jobs?,pov3,Perception of voters
+115,Should money from government schemes only be received in women’s bank accounts,pov4,Perception of voters
+116,Do you believe we should have a caste census?,pov5,Perception of voters
+117,Do you believe the EVM electoral process is fair?,pov6,Perception of voters
+118,Which of the following best explains why you think the constitution is important?,pov7,Perception of voters
+119,Do you believe it is desirable to have a chief minister and a prime minister from the same political party?,pov8,Perception of voters
+120,"If Yes, what is the main reason?",pov9,Perception of voters
+121,"If No, what is the main reason?",pov10,Perception of voters
+122,Have you heard about the farmers protest?,pov11,Perception of voters
+123,"If yes, do you support the farmers protest?",pov12,Perception of voters
+124,Indicate your response to the following questions: Do you believe inequality has risen in India?,c1,Citizenship
+125,Indicate your response to the following questions: Is it the government’s responsibility to protect the interests of the minorities?,c2,Citizenship
+126,Indicate your response to the following questions: The Muslim community in India has been victimised under the BJP.,c3,Citizenship
+127,Indicate your response to the following questions: Media represents only the views of Modi and BJP!,c4,Citizenship
+128,Indicate your response to the following questions: Is it a citizens’ right to demand welfare benefits from government or is it a "mai-baap" ki sarkaar?,c5,Citizenship
+129,Indicate your response to the following questions: How should the government view citizens?,c6,Citizenship
+130,Indicate your response to the following questions: What is the religious character of India?,c7,Citizenship
+131,"Indicate your response to the following questions: Temples should be built where masjids currently stand in Mathura, Kashi and similar religious sites.",c8,Citizenship
+132,"Indicate your response to the following questions: Government has given you toilets, electricity and cash. But it is the duty of the citizen to work hard and free themselves of poverty.",c9,Citizenship
+133,Indicate your response to the following questions: Hindus have historically faced discrimination and have been victimised in India.,c10,Citizenship
+134,Indicate your response to the following questions: Do you think BJP will change the constitution if it comes back to power,c11,Citizenship
+135,Indicate your response to the following questions: Does Congress only plays appeasement (tushtikaran) politics?,c12,Citizenship
+136,Where do you get your news?,mu1,Media usage
+137,"If others, then specify",mu2,Media usage
+138,Which of these is the most important source?,mu3,Media usage
+139,Who do you listen to on Youtube to get information regarding politics and government? (Write "Not Applicable" if you don't actively follow youtube),mu4,Media usage
+140,_id,_id,Survey Info
+141,_uuid,_uuid,Survey Info
+142,_submission_time,_submission_time,Survey Info
+143,_validation_status,_validation_status,Survey Info
+144,_notes,_notes,Survey Info
+145,_status,_status,Survey Info
+146,_submitted_by,_submitted_by,Survey Info
+147,__version__,__version__,Survey Info
+148,_tags,_tags,Survey Info
+149,_index,_index,Survey Info
+,,,
+,,,
+,,,
+,,,
+,,,
